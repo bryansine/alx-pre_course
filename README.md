@@ -1,2 +1,1 @@
-bryan
-sine
+my first read me.md
